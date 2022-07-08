@@ -1,5 +1,6 @@
 # automation_webProject
 # https://www.youtube.com/watch?v=Sa2T1OyDTCU&t=6s&ab_channel=MosheMastbaum
+# סרטון הפרוייקט
 
 זהו פרוייקט אוטומציה על האתר של בנק ישראל.
 בפרוייקט מורצות בדיקות שונות על מודלים שונים באתר הבנק.
